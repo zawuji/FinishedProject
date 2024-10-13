@@ -1,0 +1,39 @@
+.skibidi-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  padding: 10px;
+}
+
+.skibidi-buttons button {
+  margin-right: 10px;
+}
+
+.border-container {
+  border: 2px, dotted, rgb(145, 94, 103);
+  padding: 10px;
+}
+
+.container {
+  height: 32vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.skibidi-body {
+  background-color: rgb(240, 114, 135);
+}
+
+em {
+  color: beige;
+}
+
+.skibidi-toilet {
+  border-radius: 50px;
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
